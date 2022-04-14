@@ -1,0 +1,3 @@
+﻿name;meaning;origin;link
+Abelardo;"Significa “criador de abelhas”.
+Tem origem no nome francês Abélard, a partir do antigo Abeillard, de abeille, que quer dizer “criador de abelhas”.";Francesa;https://www.dicionariodenomesproprios.com.br/abelardo/
